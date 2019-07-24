@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Моделирование алгоритма относительного приоритета", "project2\Моделирование алгоритма относительного приоритета.csproj", "{0B6F9523-ACC4-4912-AABA-7A84B553B596}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Моделирование алгоритма относительного приоритета", "project\Моделирование алгоритма относительного приоритета.csproj", "{0B6F9523-ACC4-4912-AABA-7A84B553B596}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
